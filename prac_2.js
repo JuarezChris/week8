@@ -3,6 +3,9 @@
 
 // Change Algo - build a function that takes a dollar amount and returns the same amount in change. Return how many quarters dimes nickels and pennies. 
 
+function validateAge(){
+    // code 
+}
 function changeAlgo(cents){
     var change = {
         "quarters" : 0,
